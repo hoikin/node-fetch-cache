@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "cacache": "^15.2.0",
-    "locko": "^1.0.0",
+    "locko": "^1.1.0",
     "node-fetch": "2.6.7"
   },
   "husky": {
